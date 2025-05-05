@@ -1,4 +1,4 @@
-age=11
+age=
 name="avyan"
 
 print("welcome to the world of program")
