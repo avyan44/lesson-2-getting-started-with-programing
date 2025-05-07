@@ -1,4 +1,7 @@
-print("mum birthday=2 may)
-print("dad birthday=29 august")
-print("brother birthday=29 october")
-print("avyan birthday=17 january")
+
+birthday=may 2/january 17/October 29/august 29
+name="anubha/anant/arnav/avyan"
+
+print("welcome to the world of program")
+Name=input("enter your name")
+birthday=input("enter your birthday")
